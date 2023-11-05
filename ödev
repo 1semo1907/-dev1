@@ -1,0 +1,8 @@
+int a = 5;
+string ad="semo";
+double sayi = 20.35;
+a = 5;
+system.out.println("merhaba dünya")
+system.out.println(ad);
+system.out.println(sayi);
+system.out.println(a);
